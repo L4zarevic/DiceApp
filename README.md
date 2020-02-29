@@ -1,0 +1,3 @@
+# DiceApp
+
+Small Android app
